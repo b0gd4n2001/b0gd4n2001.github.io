@@ -1,0 +1,32 @@
+body {
+  background-image: url(https://img.freepik.com/free-vector/seamless-green-grass-pattern_1284-52275.jpg);
+  color: white;
+  text-align: center;
+  padding: 10%
+}
+
+form, p, h1 {
+  background-image: url(https://media.istockphoto.com/photos/black-soil-texture-background-top-view-picture-id619088574?k=20&m=619088574&s=170667a&w=0&h=YB58I0br4x1O2Xk61IAlUNcFqP3dU5KfLnlSS_zEtdI=);
+  padding: 1em;
+}
+
+input, label, select {
+  display: block;
+  margin: 1em auto;
+  max-width: 720px;
+}
+
+.a {
+  display: inline;
+  margin: 0;
+  width: auto;
+  vertical-align: middle;
+}
+
+textarea {
+  margin: 3em
+}
+
+input, textarea, select {
+  width: 90%;
+}
